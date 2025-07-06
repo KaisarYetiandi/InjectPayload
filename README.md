@@ -15,7 +15,7 @@ SETELAH ITU JALANKAN
 python3 Injection.py
 ```
 # Hasilnya
-![alt text] (https://github.com/KaisarYetiandi/InjectPayload/blob/main/Screenshot_2025-07-07-00-56-44-772_com.termux-edit.jpg)
+![alt text]([https://github.com/KaisarYetiandi/Bypass-Backdor/blob/main/Screenshot_2025-04-22-00-39-41-360_com.brave.browser-edit.jpg](https://github.com/KaisarYetiandi/InjectPayload/blob/main/Screenshot_2025-07-07-00-56-44-772_com.termux-edit.jpg)
 
 # ⚠️ DISCLAIMER ⚠️ 
 Hanya untuk edukasi dan pembelajaran saja, Aing tidak akan bertanggung jawab bila terjadi sesuatu yang tidak diinginkan
