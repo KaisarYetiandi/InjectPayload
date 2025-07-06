@@ -6,3 +6,13 @@ COPY
 ```
 https://github.com/KaisarYetiandi/InjectPayload
 ```
+BUKA FOLDER
+```
+cd InjectPayload
+```
+SETELAH ITU JALANKAN
+```
+python3 Injection.py
+```
+DAN HASILNYA
+![alt text] (https://github.com/KaisarYetiandi/InjectPayload/blob/main/Screenshot_2025-07-07-00-56-44-772_com.termux-edit.jpg)
