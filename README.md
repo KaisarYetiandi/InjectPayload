@@ -1,24 +1,44 @@
-# InjectPayload
-![alt text](https://github.com/KaisarYetiandi/InjectPayload/blob/main/Screenshot_2025-07-07-00-56-44-772_com.termux-edit.jpg)
+# 🧪 InjectPayload v1.2
 
-# Apa Itu InjectPayload?
-InjectPayload dibuat untuk membantu memudahkan build Reverse Shell (Payload Powershell) secara otomatis yang udah di-encode ke base64 (UTF-16LE) dan hasilnya disimpan ke file .bat Selain itu, script ini juga bisa secara otomatis menyisipkan payload (Malaware) Metasploit (meterpreter/reverse_tcp) secara otomatis ke dalam script python kamu
+> 🔥 Powerful Payload Injector for Reverse Shell, Metasploit, and Ransomware  
+> 🧠 Coded by: [Emperor_Yetiandi](https://github.com/KaisarYetiandi)
 
-# Instalasi
-COPY 
-```
-https://github.com/KaisarYetiandi/InjectPayload
-```
-BUKA FOLDER
-```
+---
+
+## 📌 Deskripsi
+
+**InjectPayload** adalah tool Python serbaguna yang digunakan untuk menyisipkan berbagai jenis payload secara otomatis ke dalam file `.VBS` dan `.PY`. Tool ini mendukung Reverse Shell (Netcat), Payload Metasploit (Meterpreter), dan Ransomware (AES+RSA).
+
+Tujuan utama proyek ini adalah untuk **edukasi, ethical hacking, penetration testing**, dan demonstrasi teknik **stealth injection** serta **payload obfuscation**.
+
+---
+
+## 🚀 Fitur Unggulan
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| 🔁 Reverse Shell VBS | Membuat file `.vbs` reverse shell (Netcat listener) |
+| 🧬 Metode Obfuscation | Mendukung `Chr()` obfuscation dan Base64 (UTF-16LE) |
+| 💉 Inject Payload Metasploit | Menyisipkan payload `python/meterpreter/reverse_tcp` ke dalam file `.py` |
+| 🛡️ Inject Payload Ransomware | Payload enkripsi AES-RSA untuk ransomware |
+| 🧵 Multithreading | Payload berjalan di background tanpa mengganggu kode asli |
+| 📟 UI CLI Interaktif | Menu CLI interaktif dengan validasi input dan tampilan profesional |
+| 👻 Stealth Mode | Semua payload berjalan tersembunyi (tanpa membuka jendela CMD) |
+
+---
+
+## ⚠️ Disclaimer
+
+> 🔒 Tool ini dibuat untuk tujuan **EDUKASI dan PENGETESAN KEAMANAN**.  
+> ❌ **Dilarang digunakan untuk aktivitas ilegal atau menyerang sistem tanpa izin tertulis**.  
+> 🧨 **Ransomware yang dihasilkan benar-benar mengenkripsi file. Gunakan dengan bijak.**
+
+---
+
+## 🛠️ Instalasi
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/KaisarYetiandi/InjectPayload.git
 cd InjectPayload
-```
-SETELAH ITU JALANKAN
-```
-python3 Injection.py
-```
-
-# ⚠️ DISCLAIMER ⚠️ 
-Hanya untuk edukasi dan pembelajaran saja, Aing tidak akan bertanggung jawab bila terjadi sesuatu yang tidak diinginkan
-
-
