@@ -6,6 +6,7 @@
 ---
 
 ## 📌 Deskripsi
+![Screenshot Payload](https://github.com/KaisarYetiandi/InjectPayload/blob/main/Screenshot_2025-07-16-01-00-56-977_com.termux-edit.jpg)
 
 **InjectPayload** adalah tool Python serbaguna yang digunakan untuk menyisipkan berbagai jenis payload secara otomatis ke dalam file `.VBS` dan `.PY`. Tool ini mendukung Reverse Shell (Netcat), Payload Metasploit (Meterpreter), dan Ransomware (AES+RSA).
 
