@@ -1,7 +1,7 @@
 # 🧪 InjectPayload v1.2
 
 > 🔥 Powerful Payload Injector for Reverse Shell, Metasploit, and Ransomware  
-> 🧠 Coded by: [Emperor_Yetiandi](https://github.com/KaisarYetiandi)
+> 👨‍💻 Coded by: [Emperor_Yetiandi](https://github.com/KaisarYetiandi)
 
 ---
 
