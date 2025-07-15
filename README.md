@@ -26,15 +26,6 @@ Tujuan utama proyek ini adalah untuk **edukasi, ethical hacking, penetration tes
 | 👻 Stealth Mode | Semua payload berjalan tersembunyi (tanpa membuka jendela CMD) |
 
 ---
-
-## ⚠️ Disclaimer
-
-> 🔒 Tool ini dibuat untuk tujuan **EDUKASI dan PENGETESAN KEAMANAN**.  
-> ❌ **Dilarang digunakan untuk aktivitas ilegal atau menyerang sistem tanpa izin tertulis**.  
-> 🧨 **Ransomware yang dihasilkan benar-benar mengenkripsi file. Gunakan dengan bijak. dan aing tidak akan bertanggung jawab bila terjadi sesuatu yang tidak diinginkan**
-
----
-
 ## 🛠️ Instalasi
 
 ### 1. Clone Repository
@@ -52,3 +43,11 @@ Menjalankan Tool
 ```
 python3 Injection.py
 ```
+
+---
+## ⚠️ Disclaimer
+
+> 🔒 Tool ini dibuat untuk tujuan **EDUKASI dan PENGETESAN KEAMANAN**.  
+> ❌ **Dilarang digunakan untuk aktivitas ilegal atau menyerang sistem tanpa izin tertulis**.  
+> 🧨 **Ransomware yang dihasilkan benar-benar mengenkripsi file. Gunakan dengan bijak. dan aing tidak akan bertanggung jawab bila terjadi sesuatu yang tidak diinginkan**
+> 
