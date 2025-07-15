@@ -22,7 +22,7 @@ Tujuan utama proyek ini adalah untuk **edukasi, ethical hacking, penetration tes
 | 🧬 Metode Obfuscation | Mendukung `Chr()` obfuscation dan Base64 (UTF-16LE) |
 | 💉 Inject Payload Metasploit | Menyisipkan payload `python/meterpreter/reverse_tcp` ke dalam file `.py` |
 | 🛡️ Inject Payload Ransomware | Payload enkripsi AES-RSA untuk ransomware |
-| 🧵 Multithreading | Payload berjalan di background tanpa mengganggu kode asli |
+| 🧵 Multithreading | Payload berjalan di background tanpa terdeteksi  |
 | 👻 Stealth Mode | Semua payload berjalan tersembunyi (tanpa membuka jendela CMD) |
 
 ---
