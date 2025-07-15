@@ -21,7 +21,7 @@ Tujuan utama proyek ini adalah untuk **edukasi, ethical hacking, penetration tes
 | 🔁 Reverse Shell VBS | Membuat file `.vbs` reverse shell (Netcat listener) |
 | 🧬 Metode Obfuscation | Mendukung `Chr()` obfuscation dan Base64 (UTF-16LE) |
 | 💉 Inject Payload Metasploit | Menyisipkan payload `python/meterpreter/reverse_tcp` ke dalam file `.py` |
-| 🛡️ Inject Payload Ransomware | Payload enkripsi AES-RSA untuk ransomware |
+| 🛡️ Inject Payload Ransomware | Payload Ransomware, dengan Enkripsi AES-RSA untuk Enkripsi semua file |
 | 🧵 Multithreading | Payload berjalan di background tanpa terdeteksi  |
 | 👻 Stealth Mode | Semua payload berjalan tersembunyi (tanpa membuka jendela CMD) |
 
