@@ -22,7 +22,6 @@ Tujuan utama proyek ini adalah untuk **edukasi, ethical hacking, penetration tes
 | 💉 Inject Payload Metasploit | Menyisipkan payload `python/meterpreter/reverse_tcp` ke dalam file `.py` |
 | 🛡️ Inject Payload Ransomware | Payload enkripsi AES-RSA untuk ransomware |
 | 🧵 Multithreading | Payload berjalan di background tanpa mengganggu kode asli |
-| 📟 UI CLI Interaktif | Menu CLI interaktif dengan validasi input dan tampilan profesional |
 | 👻 Stealth Mode | Semua payload berjalan tersembunyi (tanpa membuka jendela CMD) |
 
 ---
@@ -31,7 +30,7 @@ Tujuan utama proyek ini adalah untuk **edukasi, ethical hacking, penetration tes
 
 > 🔒 Tool ini dibuat untuk tujuan **EDUKASI dan PENGETESAN KEAMANAN**.  
 > ❌ **Dilarang digunakan untuk aktivitas ilegal atau menyerang sistem tanpa izin tertulis**.  
-> 🧨 **Ransomware yang dihasilkan benar-benar mengenkripsi file. Gunakan dengan bijak.**
+> 🧨 **Ransomware yang dihasilkan benar-benar mengenkripsi file. Gunakan dengan bijak. dan aing tidak akan bertanggung jawab bila terjadi sesuatu yang tidak diinginkan**
 
 ---
 
@@ -41,4 +40,14 @@ Tujuan utama proyek ini adalah untuk **edukasi, ethical hacking, penetration tes
 
 ```bash
 git clone https://github.com/KaisarYetiandi/InjectPayload.git
+```
+Masuk ke folder
+
+```
 cd InjectPayload
+```
+Menjalankan Tool
+
+```
+python3 Injection.py
+```
